@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;800;900&display=swap);
+
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+.container {
+	max-width: 1200px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.heading {
+	font-size: 48px;
+}
+.players-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.player1-image {
+}
+.player2-image {
+}
+.result {
+  font-size: 52px;
+}
